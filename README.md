@@ -1,1 +1,3 @@
-# garbage-classify
+# Garbage Classify Using Xception Model
+
+Accuracy > 94%
